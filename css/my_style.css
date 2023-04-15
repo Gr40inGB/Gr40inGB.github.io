@@ -1,0 +1,53 @@
+@font-face {
+    font-family: 'Akaya';
+    src: local('Akaya'),
+        url(/font/AkayaTelivigala-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Neucha';
+    src: local('Neucha'),
+        url(/font/Neucha.ttf);
+}
+
+h1 {
+    font-family: Neucha;
+    font-size: 4rem;
+    background-color: rgba(255, 255, 255, 0.8);
+}
+
+h5 {
+    font-family: Neucha;
+    font-size: 4rem;
+    background-color: rgba(0, 0, 0, 0.800);
+}
+
+p {
+    font-family: Neucha;
+    font-size: 2rem;
+    background-color: rgba(0, 0, 0, 0.800);
+}
+
+.tab-content {
+    font-family: Neucha;
+
+}
+
+.col-md-2 {
+    font-family: Neucha;
+    font-weight: bold;
+    font-size: 2rem;
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+.card-body {
+    font-family: Neucha;
+    font-size: 60%;
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+.mb-3 {
+    font-family: Neucha;
+    font-size: 60%;
+    background-color: rgba(0, 0, 0, 0.1);
+}
